@@ -4,3 +4,4 @@ git test fetch
 merge2
 merge1
 
+push merge2

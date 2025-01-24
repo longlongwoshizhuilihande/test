@@ -1,3 +1,4 @@
 feature1
 feature done!
-git test fetch
+git test fetch 
+merge1

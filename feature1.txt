@@ -1,2 +1,12 @@
 feature2
 feature done!
+git test fetch
+merge2
+merge1
+
+
+push merge2
+add 1
+add 2
+push merge1
+

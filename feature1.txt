@@ -1,4 +1,4 @@
-feature2
+modify feature2 test
 feature done!
 git test fetch
 merge2
